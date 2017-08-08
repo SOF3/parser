@@ -1,0 +1,5 @@
+projects:
+  pure-xml-parser:
+    type: library
+    model: virion
+    path: parser
